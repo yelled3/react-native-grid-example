@@ -28,6 +28,8 @@ var GridLayoutExample = React.createClass({
 
   render: function() {
     return (
+      // ListView wraps ScrollView and so takes on its properties. 
+      // With that in mind you can use the ScrollView's contentContainerStyle prop to style the items.
       <ListView contentContainerStyle={styles.list}
         dataSource={this.state.dataSource}
         renderRow={this._renderRow}
