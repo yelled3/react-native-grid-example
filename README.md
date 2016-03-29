@@ -57,7 +57,7 @@ var styles = StyleSheet.create({
     }
 });
 ```
-If you're `flexbox` is somewhat rusty, I highly recommend you go through [this guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+If your `flexbox` is somewhat rusty, I highly recommend you go through [this guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 
 
 
