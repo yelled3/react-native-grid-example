@@ -86,9 +86,10 @@ var hashCode = function(str) {
 
 var styles = StyleSheet.create({
   list: {
-    justifyContent: 'center',
     flexDirection: 'row',
-    flexWrap: 'wrap'
+    justifyContent: 'space-between',
+    flexWrap:'wrap',
+    alignItems: 'flex-start',
   },
   row: {
     justifyContent: 'center',
