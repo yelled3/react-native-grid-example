@@ -63,5 +63,5 @@ If your `flexbox` is somewhat rusty, I highly recommend you go through [this gui
 
 ## Credits & References
 * This example was based on Colin Ramsay's [suggestion on StackoverFlow](http://stackoverflow.com/questions/29394297/listview-grid-in-react-native/29395686#29395686)
-* This is a follow up the disucction started on https://github.com/facebook/react-native/issues/1276
+* This is a follow up on the discussion started on https://github.com/facebook/react-native/issues/1276
 * The example code was based on [ListView example](https://github.com/facebook/react-native/blob/master/Examples/UIExplorer/ListViewExample.js), included in the ReactNative's `UIExplorer` examples.
